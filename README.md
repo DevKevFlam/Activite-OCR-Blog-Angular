@@ -1,0 +1,1 @@
+Activite OCR Blog Angular
