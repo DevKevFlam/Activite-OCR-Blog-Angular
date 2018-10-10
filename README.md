@@ -1,6 +1,5 @@
-﻿                                *--------------------------------------*
-                                |      Activite OCR Blog Angular       |
-                                *--------------------------------------*
+# Activite OCR Blog Angular  
+                              
 
         *------   Description   ------*
 
