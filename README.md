@@ -26,8 +26,8 @@ le projet est déployé sur firebase et disponible à l'adresse suivante:
 ## Install  
 Pour installer le projet et le lancer en local suivre la procédure suivante  
   - Pré-requis:  
-    1. Il faut avoir installé les modules npm  
-    2. Il faut le dossier du projet
+    - Il faut avoir installé les modules npm  
+    - Il faut le dossier du projet
         
 1. lancer une console (cmd.exe)
 2. taper 'cd chemin/vers/laRacineDuProjet' (Remplacer "chemin/vers/laRacineDuProjet" par le chemin vers le répertoire racine du projet)
