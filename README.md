@@ -16,14 +16,12 @@ Projet Angular de l'activité final "Développez des applications Web avec Angul
 - Le projet est déployé sur le hosting firebase (adresse voir rebrique "projet déployé").  
 
 #### GIT  
-        
-    le code complet du projet est disponible sur gitHub: 
-      - https://github.com/DevKevFlam/Activite-OCR-Blog-Angular  
+le code complet du projet est disponible sur gitHub: 
+    - https://github.com/DevKevFlam/Activite-OCR-Blog-Angular  
 
 #### Projet déployé  
-        
-    le projet est déployé sur firebase et disponible à l'adresse suivante: 
-      - https://blog-ocr-post.firebaseapp.com
+le projet est déployé sur firebase et disponible à l'adresse suivante: 
+     - https://blog-ocr-post.firebaseapp.com
 
 ## Install  
 Pour installer le projet et le lancer en local suivre la procédure suivante  
@@ -35,5 +33,5 @@ Pour installer le projet et le lancer en local suivre la procédure suivante
 2. taper 'cd chemin/vers/laRacineDuProjet' (Remplacer "chemin/vers/laRacineDuProjet" par le chemin vers le répertoire racine du projet)
 3. lancer la commande 'npm install' pour récupérer les dépendances du projet
 4. lancer la commande 'ng serve' pour lancer le projet en http://localhost:4200/  
-  -  ou 'ng serve --port 0000' pour lancer le projet en http://localhost:0000/ (0000 à ramplacer par le port souhaité)
+                -  ou 'ng serve --port 0000' pour lancer le projet en http://localhost:0000/ (0000 à ramplacer par le port souhaité)
 
